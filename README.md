@@ -11,6 +11,7 @@ This repository houses the source code of SQ3L for AAAI24.
 - Python 3.8.11 or higher
 ### Packages
 - PyTorch 1.9.1
+- PyG 2.0.3
 - DGL 0.9.1
 - Numpy 1.21.2
 - Networkx 2.6.3
