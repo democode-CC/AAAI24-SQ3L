@@ -1,15 +1,10 @@
 # AAAI24-SQ3L
-This repository houses the source Code of SQ3L for AAAI24.
+This repository houses the source code of SQ3L for AAAI24.
 
 
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [API Documentation](#api-documentation)
-4. [Contribution](#contribution)
-5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
-7. [Contact](#contact)
 
 ## Installation
 ### Environment
@@ -23,4 +18,5 @@ This repository houses the source Code of SQ3L for AAAI24.
 
 ## Usage
 ```bash
-Run main.py
+pip install -r requirements.txt
+python3 main.py
